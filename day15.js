@@ -1,0 +1,15 @@
+// length 
+// push
+// pop 
+// shift
+// unshift
+// concat
+// includes
+// indexof
+// lastIndexOf
+// slice
+// splice
+// tostring
+// join
+// reverse
+// fill

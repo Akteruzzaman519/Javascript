@@ -1,0 +1,2 @@
+// Variables
+// Browser IO JavaScript 

@@ -1,0 +1,191 @@
+Install NodeJS
+Install Code Runner VS Code Extension
+Install QuottaJS VS Code Extension
+Install Live server VS Code Extension
+
+user Ctrl + Shift +p for commmand platte
+user Ctrl + / to Uncomment
+
+Print Data 
+Data Types
+Number
+String
+Boolean
+Object
+Undefined
+Null
+
+
+class 2
+
+Variables
+Browser IO JavaScript 
+
+class 3 
+Boolean Values and variable
+
+class 4 
+Truely value 
+And Falsely Values
+
+class 5
+
+comparison Operator 
+1 strict comparisons
+type-converting comparisons
+Comparisons Operators
+Equality (==)
+Inequality (!==)
+Identity (===)
+Not Identy (!==)
+Greater then (>)
+Greater then or Equal (>=)
+Smaller then (<)
+Smaller then Or Equal (<=)
+Special Comparisions
+
+class 6
+
+Conditional Statements
+
+if(condition)
+if(condition) ...else
+if(condition) ..else if(condition)..else
+or if else ladder
+if(condition){if(condition)..else} else
+or nested id else
+switch(value)
+Coditional Iperators 
+codition? true statement:false Statement
+
+clsss 7
+
+for 
+for..in
+for of
+while
+do while
+foreach
+
+class 8
+JS function
+Function Declaration
+name function
+Anonymous function
+arrow function
+Function Parameters
+cllback function
+Functions returning values
+
+class 9
+
+Scope
+local scope and variable 
+Global Scope Variabale
+Block Scope Variable
+var , let , const
+
+class 10
+
+string declaration
+single Quote 
+Double  Quote
+new string
+Template Literal
+
+Escape Notation
+string Vonvatanation
+string variable embdding
+
+class 11
+
+sting 
+length
+toUpperCase()
+toLowerCase
+substring (start , end)
+slice(start, end)
+indexOf(char)
+charAt(index)
+charCodeAt(index)
+includes(str)
+trim()
+split(char)
+
+class 12
+
+Java Script Object
+Object Construction
+object Lteral
+New keyword
+object.create(property)
+new FunctionName(params)
+Accessing object Propeties
+
+
+class 13
+
+remove object Properties
+de;ete [erspm.age
+
+voew pnject as table
+Traversing Objection
+hasOwbProperty()
+object.keys()
+
+object.values()
+
+object.entries()
+
+object.assign()
+
+object.defineProperty()
+
+object.defineProperties()
+object.preventExtention()
+object.isExtensible()
+object.seal()
+object.isSealed()
+object.freeze()
+object.isForxen()
+
+
+class 14
+
+why array
+
+Array declare 
+Array Access
+Array Index
+Access arrlay element with for loops
+
+class 15
+
+length 
+push
+pop 
+shift
+unshift
+concat
+includes
+indexof
+lastIndexOf
+slice
+splice
+tostring
+join
+reverse
+fill
+
+
+class 16
+
+foreach
+mop
+find
+findIndex
+filter
+sort
+reduce
+some
+Every
