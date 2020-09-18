@@ -3,6 +3,7 @@
 // type-converting comparisons
 // Comparisons Operators
 // Equality (==)
+console.log(4=="4")
 // Inequality (!==)
 // Identity (===)
 // Not Identy (!==)
